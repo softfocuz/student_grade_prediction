@@ -1,4 +1,4 @@
-Student Grade Prediction
+Student Grade Prediction (Machine Learning Project)
     
     # This project predicts student final grades.
 
